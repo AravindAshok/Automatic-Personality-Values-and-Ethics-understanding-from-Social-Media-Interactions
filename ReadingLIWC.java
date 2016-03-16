@@ -33,7 +33,20 @@ public class ReadingLIWC {
 				return word1.compareTo(word2);
 			}
 		});
+<<<<<<< HEAD
 	
 	}
 	
 }
+=======
+		for(int k =0;k<20;k++){
+			for(int l=0;l<2;l++){
+				System.out.print( words[k][l] + " ");
+			}
+			System.out.print("\n");
+		}
+		
+	}
+	
+}
+>>>>>>> c27d9bf9b718b0d4a65d1913db72dc08dfd574fc
